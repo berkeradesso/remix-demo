@@ -1,4 +1,4 @@
-import loadedButtonStyle from "~/components/ExplosiveButton.css";
+import loadedButtonStyle from "~/components/LoadedButton.css";
 import {Form} from "@remix-run/react";
 
 function LoadedButton({data, selectedNote}: any) {
